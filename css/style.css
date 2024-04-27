@@ -1,0 +1,116 @@
+*{
+    margin:0;
+}
+header
+{
+    width: 100%;
+    font-size: 40px;
+    background-color: blueviolet;
+    text-align:center;
+    color: white;
+}
+.Banner
+{
+    width: 100%;
+    height: 280px;
+    font-size: 30px;
+    color:white;
+    background-color: brown;
+    text-align: center;
+}
+.block
+{
+    overflow: hidden;
+}
+.left-block
+{
+    height: 150px;
+    width: 50%;
+    color: white;
+    background-color: rgb(255, 0, 128);
+    font-size: 35px;
+    text-align: center;
+    float: left;
+
+}
+.right-block
+{
+    height: 150px;
+    width: 50%;
+    color: white;
+    background-color: green;
+    font-size: 35px;
+    text-align: center;
+    float: right;
+}
+.item
+{
+    overflow: hidden;
+}
+.item_1
+{
+    height: 80px;
+    width: 33.3%;
+    font-size: 35px;
+    color: white;
+    background-color: teal;
+    text-align: center;
+    float: left;
+}
+.item_2
+{
+    height: 80px;
+    width: 33.3%;
+    font-size: 35px;
+    color: white;
+    background-color:rosybrown;
+    text-align: center;
+    float: left;
+}
+.item_3
+{
+    height: 80px;
+    width: 33.3%;
+    font-size: 35px;
+    color: white;
+    background-color: indigo;
+    text-align: center;
+    float: left;
+}
+.ads
+{
+    overflow: hidden;
+}
+.ads_1
+{
+    height: 80px;
+    width: 70%;
+    font-size: 35px;
+    color: aliceblue;
+    background-color: lawngreen;
+    text-align: center;
+    float: left;
+}
+.ads_img
+{
+    height: 80px;
+    width: 30%;
+    font-size: 35px;
+    color: aliceblue;
+    background-color: rgb(59, 21, 57);
+    text-align: center;
+    float: right;
+}
+.footer
+{
+    color: white;
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+
+
+
+
+
