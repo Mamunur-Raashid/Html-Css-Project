@@ -192,3 +192,69 @@ border: none;
 
 border: 1px solid #000;
 }
+
+
+footer
+{
+    background-color: #f0f0f0;
+    height: 150px;
+    margin: 0px;
+}
+.footerwraper
+{
+
+width: 80%;
+
+margin: auto;
+
+padding-top: 22px;
+
+display: flex;
+
+justify-content: space-between;
+}
+.Terms
+{width: 20%;}
+.Terms ul
+{
+
+display: flex;
+
+justify-content: space-between;
+}
+.Terms ul li
+{
+
+list-style: none;
+
+text-decoration: none;
+}
+.Terms ul li a
+{
+
+text-decoration: none;
+
+color: black;
+}
+.Icons
+{
+
+width: 45%;
+}
+.Icons ul
+{
+
+display: flex;
+
+justify-content: space-evenly;
+}
+.Icons ul li
+{
+
+list-style: none;
+
+text-decoration: none;
+}
+.Icons ul li a
+{text-decoration: none;color: black;}
+
